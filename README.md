@@ -10,7 +10,7 @@
 **NOTE:** 
 - Stormy was made for educational purposes, there for all consequences caused by your actions are **your** responsibility and accountability.
 - You got an error? you've find a bug? join the discord or create an issue!
-- i release the exe on 50 ⭐
+- i release the exe on 25 ⭐
 
 ---
 
