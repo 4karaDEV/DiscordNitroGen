@@ -37,7 +37,7 @@
 v1.3 ⋮ 2023-02-10
 + GenNitro
 + Amount Nitro Gen
-- Checker
+- NitroChecker
 ```
 
 ### <a id="terms"></a>💼 〢 Terms Of Usage
