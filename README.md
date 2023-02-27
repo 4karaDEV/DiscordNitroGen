@@ -10,7 +10,7 @@
 **NOTE:** 
 - Stormy was made for educational purposes, there for all consequences caused by your actions are **your** responsibility and accountability.
 - You got an error? you've find a bug? join the discord or create an issue!
-- i release the exe on 25 ⭐
+- Put⭐if you like this tools
 
 ---
 
@@ -34,7 +34,7 @@
 ## <a id="changelog"></a>💭 〢 ChangeLog
 
 ```diff
-v1.3 ⋮ 2023-02-10
+v1.0 ⋮ 2023-02-10
 + GenNitro
 + Amount Nitro Gen
 - NitroChecker
