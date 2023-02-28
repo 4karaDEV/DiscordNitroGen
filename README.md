@@ -6,7 +6,7 @@
  Stormy About
 </h1>
 
-#BTN
+https://img.shields.io/github/downloads/4karaDEV/DiscordNitroGen/total
 
 **NOTE:** 
 - Stormy was made for educational purposes, there for all consequences caused by your actions are **your** responsibility and accountability.
