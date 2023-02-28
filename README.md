@@ -6,7 +6,9 @@
  Stormy About
 </h1>
 
-<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/4karaDEV/DiscordNitroGen/total"> <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/4karaDEV/DiscordNitroGen">
+<p1 align="center">
+ <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/4karaDEV/DiscordNitroGen/total"> <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/4karaDEV/DiscordNitroGen"> https://img.shields.io/github/last-commit/4karaDEV/DiscordNitroGen
+</p1>
 
 **NOTE:** 
 - Stormy was made for educational purposes, there for all consequences caused by your actions are **your** responsibility and accountability.
