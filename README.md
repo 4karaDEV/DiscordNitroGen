@@ -1,4 +1,4 @@
-#🌴 Stormy DiscordGenerateur + (Checker - SOON) v1.0
+#🌴 Stormy DiscordGenerateur + (Checker - SOON) v1.1
 
 ![](https://github.com/4karaDEV/StormyGen/blob/main/assets/def.PNG)
 
@@ -42,7 +42,11 @@ v1.0 ⋮ 2023-02-10
 + Amount Nitro Gen
 - NitroChecker
 
-v1.1 ⋮ i'm working to do
+v1.1 ⋮ 2023-03-01
++ correct number generate
+- NitroChecker
+
+v1.2 ⋮ i'm working to do
 + NitroChecker
 ```
 
