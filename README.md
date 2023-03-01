@@ -42,7 +42,7 @@ v1.0 ⋮ 2023-02-10
 + Amount Nitro Gen
 - NitroChecker
 
-v1.1 ⋮ Soon
+v1.1 ⋮ i'm working to do
 + NitroChecker
 ```
 
