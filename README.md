@@ -46,8 +46,10 @@ v1.1 ⋮ 2023-03-01
 + correct number generate
 - NitroChecker
 
-v1.2 ⋮ i'm working to do
+v1.2 ⋮ 2023-03-03 ⋮ 19:02
 + NitroChecker
++ New Feature
++ All working
 ```
 
 ### <a id="terms"></a>💼 〢 Terms Of Usage
