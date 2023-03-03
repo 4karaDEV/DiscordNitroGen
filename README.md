@@ -47,7 +47,7 @@ v1.1 ⋮ 2023-03-01
 + correct number generate
 - NitroChecker
 
-v1.2 ⋮ 2023-03-03 ⋮ 19:02
+v1.2 ⋮ 2023-03-03 ⋮ 19:50
 + NitroChecker
 + New Feature
 + All working
