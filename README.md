@@ -33,7 +33,7 @@
 3. Install all requirements
 4. Click on setup.bat
 5. Complete the configuration
-6. You have your webhook spammer enjoy :)
+6. You have your DiscordNitro Generator & Checker enjoy :)
 
 ## <a id="changelog"></a>💭 〢 ChangeLog
 
