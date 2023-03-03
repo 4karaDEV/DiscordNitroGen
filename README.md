@@ -1,4 +1,4 @@
-#🌴 Stormy DiscordGenerateur + (Checker - SOON) v1.1
+#🌴 Stormy DiscordGenerateur & Checker | v1.2
 
 ![](https://github.com/4karaDEV/StormyGen/blob/main/assets/def.PNG)
 ![](https://github.com/4karaDEV/StormyGen/blob/main/assets/checker.PNG)
