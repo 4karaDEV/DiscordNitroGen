@@ -20,20 +20,20 @@
 
 ## <a id="content"></a>🌐 〢 Content
 
-- [🔌・Setup](#setup)
 - [📁・Setting](#setting)
+- [🔌・Setup](#setup)
 - [📝・Changelog](#changelog)
 - [💼・Term](#terms)
-
-## <a id="setup"></a>🔌 〢 Setup
-```
-Test
-```
 
 ## <a id="Setting"></a> 📁 〢 Setting
 
 1. Need [Python](https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe)
 2. Need [Stormy](https://codeload.github.com/4karaDEV/StormyGen/zip/refs/heads/main)
+
+## <a id="setup"></a>🔌 〢 Setup
+```
+Test
+```
 
 ## <a id="changelog"></a>💭 〢 ChangeLog
 
