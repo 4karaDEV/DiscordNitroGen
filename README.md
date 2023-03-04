@@ -33,7 +33,31 @@
 
 ## <a id="setup"></a>🔌 〢 Setup
 ```
-Test
+1.
+$ git clone https://github.com/4karaDEV/DiscordNitroGen.git
+$ cd DiscordNitroGen
+
+2.
+open the setup folder
+open setup.bat in your computer
+or
+open cmd and write "pip install -U -r requirements.txt"
+
+3.
+$ python Stormy.py
+
+4.
+PRESS ENTER
+ENTER NUMBER and PRESS ENTER
+ENTER PRESS
+- wait
+PRESS ENTER
+PRESS ENTER
+- wait
+PRESS ENTER
+
+5.
+repeat process
 ```
 
 ## <a id="feature"></a>📑 〢 Feature
