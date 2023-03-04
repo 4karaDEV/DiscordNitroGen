@@ -16,6 +16,8 @@
 - You got an error? you've find a bug? join the discord or create an issue!
 - Put⭐if you like this tools
 
+- 🛑 this is illegal beware I WILL NOT BE ACCOUNTABLE FOR YOUR ACTS this github archive is a collection and not an encouragement to play with others money 🛑
+- 🛑 I emphasize this is illegal I'm just here to share my code with you and show you that hard work pays off 🛑
 ---
 
 ## <a id="content"></a>🌐 〢 Content
@@ -45,22 +47,11 @@ open cmd and write "pip install -U -r requirements.txt"
 
 3.
 $ python Stormy.py
-
-4.
-PRESS ENTER
-ENTER NUMBER and PRESS ENTER
-ENTER PRESS
-- wait
-PRESS ENTER
-PRESS ENTER
-- wait
-PRESS ENTER
-
-5.
-repeat process
 ```
 
 ## <a id="feature"></a>📑 〢 Feature
+- [x] NitroChecker
+- [x] NitroGenerator
 
 ## <a id="changelog"></a>💭 〢 ChangeLog
 
