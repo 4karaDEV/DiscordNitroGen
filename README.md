@@ -22,6 +22,7 @@
 
 - [📁・Setting](#setting)
 - [🔌・Setup](#setup)
+- [📑・Feature](#feature)
 - [📝・Changelog](#changelog)
 - [💼・Term](#terms)
 
@@ -34,6 +35,8 @@
 ```
 Test
 ```
+
+## <a id="feature"></a>📑 〢 Feature
 
 ## <a id="changelog"></a>💭 〢 ChangeLog
 
