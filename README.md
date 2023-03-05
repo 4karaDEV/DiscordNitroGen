@@ -52,6 +52,8 @@ $ python Stormy.py
 ## <a id="feature"></a>📑 〢 Feature
 - [x] NitroChecker
 - [x] NitroGenerator
+- [x] ValideNitroFiles
+- [x] BadNitroFiles
 
 ## <a id="changelog"></a>💭 〢 ChangeLog
 
@@ -69,6 +71,10 @@ v1.2 ⋮ 2023-03-03 ⋮ 19:50
 + NitroChecker
 + New Feature
 + All working
+
+v1.3 ⋮ 2023-03-05 ⋮ 16:50
++ valid nitro files
++ bad save nitro files
 ```
 
 ### <a id="terms"></a>💼 〢 Terms Of Usage
